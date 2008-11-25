@@ -12,7 +12,7 @@ Text::NLP::Stanford::EntityExtract - Talks to a stanford-ner socket server to ge
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
@@ -48,7 +48,7 @@ Wrte a script to extract the named entities from the text, like the following:
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head2 METHODS
 
@@ -213,6 +213,8 @@ the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Text-NLP-S
 automatically be notified of progress on your bug as I make changes.
 
 =head1 SUPPORT
+
+The git repository for this code is available from git://github.com/singingfish/text-nlp-stanford-entityextract.git
 
 You can find documentation for this module with the perldoc command.
 
