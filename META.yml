@@ -17,4 +17,5 @@ no_index:
     - t
 requires:
   Mouse: 0
-version: 0.04
+  Text::Unidecode: 0
+version: 0.05
