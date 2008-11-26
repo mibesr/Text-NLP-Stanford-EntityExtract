@@ -18,4 +18,4 @@ no_index:
 requires:
   Mouse: 0
   Text::Unidecode: 0
-version: 0.05
+version: 0.06
